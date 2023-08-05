@@ -1,0 +1,41 @@
+.center {
+margin-left: 40%;
+
+}
+
+
+.container {
+   align-items: center;
+    text-align: center;
+    background-color: black;
+
+    margin: 10px;
+    padding:10px;
+    width:150px;
+
+ }
+    
+ .button{
+    margin:2px;
+   border-radius:10px;
+   text-align: center;
+   font-size: 16px;
+ }
+ .row{
+    margin: 10px;
+    text-align: center;
+ }
+
+body{
+  
+   display:flexbox;
+
+}
+ 
+ input{
+  height:100px;
+  width:150px;
+background-color: black;
+color: white;
+
+ }
